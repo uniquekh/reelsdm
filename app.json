@@ -5,13 +5,13 @@
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/Sursa2929/DRM-bot",
+    "repository": "https://github.com/uniquekh/drm.git",
     "buildpacks":[
         {
-            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+            "url": "https://github.com/uniquekh/drm.git"
         },
         {
-            "url": "https://github.com/amivin/aria2-heroku.git"
+            "url": "https://github.com/uniquekh/drm.git"
         },
         {
             "url": "heroku/python"
